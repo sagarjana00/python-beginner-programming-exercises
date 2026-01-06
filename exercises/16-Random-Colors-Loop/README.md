@@ -12,7 +12,7 @@ Let's say that we are teachers in a 10 student classroom, and we want to randoml
 
 ## 📝 Instructions:
 
-1. Change the function `get_allStudentColors` so it returns a list of 10 colors, where each item in the list represents the color assigned to each student.
+1. Change the function `get_allStudentColors` so it returns a list of 20 colors, where each item in the list represents the color assigned to each student.
 
 ## 💡 Hints:
 
